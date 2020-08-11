@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Greg\\source\\repos\\HelloWorld4\\HelloWorld4\\HelloWorld4.csproj",
+      "projectUniqueName": "C:\\Users\\Greg\\The-Tech-Academy-Basic-C-Sharp-Projects\\HelloWorld4\\HelloWorld4\\HelloWorld4.csproj",
       "projectName": "HelloWorld4",
-      "projectPath": "C:\\Users\\Greg\\source\\repos\\HelloWorld4\\HelloWorld4\\HelloWorld4.csproj",
+      "projectPath": "C:\\Users\\Greg\\The-Tech-Academy-Basic-C-Sharp-Projects\\HelloWorld4\\HelloWorld4\\HelloWorld4.csproj",
       "packagesPath": "C:\\Users\\Greg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Greg\\source\\repos\\HelloWorld4\\HelloWorld4\\obj\\",
+      "outputPath": "C:\\Users\\Greg\\The-Tech-Academy-Basic-C-Sharp-Projects\\HelloWorld4\\HelloWorld4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Greg\\AppData\\Roaming\\NuGet\\NuGet.Config",

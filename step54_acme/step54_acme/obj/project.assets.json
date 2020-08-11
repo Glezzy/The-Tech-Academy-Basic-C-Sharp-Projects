@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Greg\\source\\repos\\studentquestionsAssignment\\studentquestionsAssignment\\studentquestionsAssignment.csproj",
+      "projectUniqueName": "C:\\Users\\Greg\\The-Tech-Academy-Basic-C-Sharp-Projects\\step71_assignment\\studentquestionsAssignment\\studentquestionsAssignment.csproj",
       "projectName": "studentquestionsAssignment",
-      "projectPath": "C:\\Users\\Greg\\source\\repos\\studentquestionsAssignment\\studentquestionsAssignment\\studentquestionsAssignment.csproj",
+      "projectPath": "C:\\Users\\Greg\\The-Tech-Academy-Basic-C-Sharp-Projects\\step71_assignment\\studentquestionsAssignment\\studentquestionsAssignment.csproj",
       "packagesPath": "C:\\Users\\Greg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Greg\\source\\repos\\studentquestionsAssignment\\studentquestionsAssignment\\obj\\",
+      "outputPath": "C:\\Users\\Greg\\The-Tech-Academy-Basic-C-Sharp-Projects\\step71_assignment\\studentquestionsAssignment\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Greg\\AppData\\Roaming\\NuGet\\NuGet.Config",
