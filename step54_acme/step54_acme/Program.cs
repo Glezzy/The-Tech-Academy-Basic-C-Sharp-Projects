@@ -6,7 +6,7 @@ namespace studentquestionsAssignment
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("The Tech Academy \nStudent Daily Report.");
+            Console.WriteLine("Welcome to Acme Accounting Systems.\n Remember, we're \"accounting\" on you!");
             Console.Read();
         }
     }
