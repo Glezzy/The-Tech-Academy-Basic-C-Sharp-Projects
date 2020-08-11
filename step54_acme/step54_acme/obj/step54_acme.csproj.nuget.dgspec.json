@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Greg\\source\\repos\\step54_acme\\step54_acme\\step54_acme.csproj": {}
+    "C:\\Users\\Greg\\The-Tech-Academy-Basic-C-Sharp-Projects\\step54_acme\\step54_acme\\step54_acme.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Greg\\source\\repos\\step54_acme\\step54_acme\\step54_acme.csproj": {
+    "C:\\Users\\Greg\\The-Tech-Academy-Basic-C-Sharp-Projects\\step54_acme\\step54_acme\\step54_acme.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Greg\\source\\repos\\step54_acme\\step54_acme\\step54_acme.csproj",
+        "projectUniqueName": "C:\\Users\\Greg\\The-Tech-Academy-Basic-C-Sharp-Projects\\step54_acme\\step54_acme\\step54_acme.csproj",
         "projectName": "step54_acme",
-        "projectPath": "C:\\Users\\Greg\\source\\repos\\step54_acme\\step54_acme\\step54_acme.csproj",
+        "projectPath": "C:\\Users\\Greg\\The-Tech-Academy-Basic-C-Sharp-Projects\\step54_acme\\step54_acme\\step54_acme.csproj",
         "packagesPath": "C:\\Users\\Greg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Greg\\source\\repos\\step54_acme\\step54_acme\\obj\\",
+        "outputPath": "C:\\Users\\Greg\\The-Tech-Academy-Basic-C-Sharp-Projects\\step54_acme\\step54_acme\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Greg\\AppData\\Roaming\\NuGet\\NuGet.Config",
