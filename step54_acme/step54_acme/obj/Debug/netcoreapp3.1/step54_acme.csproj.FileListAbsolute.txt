@@ -1,0 +1,13 @@
+C:\Users\Greg\source\repos\step54_acme\step54_acme\bin\Debug\netcoreapp3.1\step54_acme.exe
+C:\Users\Greg\source\repos\step54_acme\step54_acme\bin\Debug\netcoreapp3.1\step54_acme.deps.json
+C:\Users\Greg\source\repos\step54_acme\step54_acme\bin\Debug\netcoreapp3.1\step54_acme.runtimeconfig.json
+C:\Users\Greg\source\repos\step54_acme\step54_acme\bin\Debug\netcoreapp3.1\step54_acme.runtimeconfig.dev.json
+C:\Users\Greg\source\repos\step54_acme\step54_acme\bin\Debug\netcoreapp3.1\step54_acme.dll
+C:\Users\Greg\source\repos\step54_acme\step54_acme\bin\Debug\netcoreapp3.1\step54_acme.pdb
+C:\Users\Greg\source\repos\step54_acme\step54_acme\obj\Debug\netcoreapp3.1\step54_acme.csprojAssemblyReference.cache
+C:\Users\Greg\source\repos\step54_acme\step54_acme\obj\Debug\netcoreapp3.1\step54_acme.AssemblyInfoInputs.cache
+C:\Users\Greg\source\repos\step54_acme\step54_acme\obj\Debug\netcoreapp3.1\step54_acme.AssemblyInfo.cs
+C:\Users\Greg\source\repos\step54_acme\step54_acme\obj\Debug\netcoreapp3.1\step54_acme.csproj.CoreCompileInputs.cache
+C:\Users\Greg\source\repos\step54_acme\step54_acme\obj\Debug\netcoreapp3.1\step54_acme.dll
+C:\Users\Greg\source\repos\step54_acme\step54_acme\obj\Debug\netcoreapp3.1\step54_acme.pdb
+C:\Users\Greg\source\repos\step54_acme\step54_acme\obj\Debug\netcoreapp3.1\step54_acme.genruntimeconfig.cache
