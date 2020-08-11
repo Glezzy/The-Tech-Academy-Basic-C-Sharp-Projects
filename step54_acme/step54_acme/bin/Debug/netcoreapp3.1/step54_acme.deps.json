@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "studentquestionsAssignment/1.0.0": {
+      "step54_acme/1.0.0": {
         "runtime": {
-          "studentquestionsAssignment.dll": {}
+          "step54_acme.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "studentquestionsAssignment/1.0.0": {
+    "step54_acme/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
