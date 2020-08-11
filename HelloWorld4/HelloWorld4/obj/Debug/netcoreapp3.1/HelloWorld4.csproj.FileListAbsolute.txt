@@ -1,0 +1,13 @@
+C:\Users\Greg\source\repos\HelloWorld4\HelloWorld4\bin\Debug\netcoreapp3.1\HelloWorld4.exe
+C:\Users\Greg\source\repos\HelloWorld4\HelloWorld4\bin\Debug\netcoreapp3.1\HelloWorld4.deps.json
+C:\Users\Greg\source\repos\HelloWorld4\HelloWorld4\bin\Debug\netcoreapp3.1\HelloWorld4.runtimeconfig.json
+C:\Users\Greg\source\repos\HelloWorld4\HelloWorld4\bin\Debug\netcoreapp3.1\HelloWorld4.runtimeconfig.dev.json
+C:\Users\Greg\source\repos\HelloWorld4\HelloWorld4\bin\Debug\netcoreapp3.1\HelloWorld4.dll
+C:\Users\Greg\source\repos\HelloWorld4\HelloWorld4\bin\Debug\netcoreapp3.1\HelloWorld4.pdb
+C:\Users\Greg\source\repos\HelloWorld4\HelloWorld4\obj\Debug\netcoreapp3.1\HelloWorld4.csprojAssemblyReference.cache
+C:\Users\Greg\source\repos\HelloWorld4\HelloWorld4\obj\Debug\netcoreapp3.1\HelloWorld4.AssemblyInfoInputs.cache
+C:\Users\Greg\source\repos\HelloWorld4\HelloWorld4\obj\Debug\netcoreapp3.1\HelloWorld4.AssemblyInfo.cs
+C:\Users\Greg\source\repos\HelloWorld4\HelloWorld4\obj\Debug\netcoreapp3.1\HelloWorld4.csproj.CoreCompileInputs.cache
+C:\Users\Greg\source\repos\HelloWorld4\HelloWorld4\obj\Debug\netcoreapp3.1\HelloWorld4.dll
+C:\Users\Greg\source\repos\HelloWorld4\HelloWorld4\obj\Debug\netcoreapp3.1\HelloWorld4.pdb
+C:\Users\Greg\source\repos\HelloWorld4\HelloWorld4\obj\Debug\netcoreapp3.1\HelloWorld4.genruntimeconfig.cache
