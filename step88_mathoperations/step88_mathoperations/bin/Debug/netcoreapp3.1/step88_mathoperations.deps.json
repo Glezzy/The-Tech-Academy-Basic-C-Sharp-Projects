@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "step88_mathoperations/1.0.0": {
+        "runtime": {
+          "step88_mathoperations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "step88_mathoperations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

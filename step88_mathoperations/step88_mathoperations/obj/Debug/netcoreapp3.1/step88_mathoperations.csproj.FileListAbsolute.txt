@@ -1,0 +1,13 @@
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step88_mathoperations\step88_mathoperations\bin\Debug\netcoreapp3.1\step88_mathoperations.exe
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step88_mathoperations\step88_mathoperations\bin\Debug\netcoreapp3.1\step88_mathoperations.deps.json
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step88_mathoperations\step88_mathoperations\bin\Debug\netcoreapp3.1\step88_mathoperations.runtimeconfig.json
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step88_mathoperations\step88_mathoperations\bin\Debug\netcoreapp3.1\step88_mathoperations.runtimeconfig.dev.json
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step88_mathoperations\step88_mathoperations\bin\Debug\netcoreapp3.1\step88_mathoperations.dll
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step88_mathoperations\step88_mathoperations\bin\Debug\netcoreapp3.1\step88_mathoperations.pdb
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step88_mathoperations\step88_mathoperations\obj\Debug\netcoreapp3.1\step88_mathoperations.csprojAssemblyReference.cache
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step88_mathoperations\step88_mathoperations\obj\Debug\netcoreapp3.1\step88_mathoperations.AssemblyInfoInputs.cache
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step88_mathoperations\step88_mathoperations\obj\Debug\netcoreapp3.1\step88_mathoperations.AssemblyInfo.cs
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step88_mathoperations\step88_mathoperations\obj\Debug\netcoreapp3.1\step88_mathoperations.csproj.CoreCompileInputs.cache
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step88_mathoperations\step88_mathoperations\obj\Debug\netcoreapp3.1\step88_mathoperations.dll
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step88_mathoperations\step88_mathoperations\obj\Debug\netcoreapp3.1\step88_mathoperations.pdb
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step88_mathoperations\step88_mathoperations\obj\Debug\netcoreapp3.1\step88_mathoperations.genruntimeconfig.cache
