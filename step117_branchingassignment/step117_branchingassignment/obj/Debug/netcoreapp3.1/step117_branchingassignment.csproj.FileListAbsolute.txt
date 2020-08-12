@@ -1,0 +1,13 @@
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step117_branchingassignment\step117_branchingassignment\bin\Debug\netcoreapp3.1\step117_branchingassignment.exe
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step117_branchingassignment\step117_branchingassignment\bin\Debug\netcoreapp3.1\step117_branchingassignment.deps.json
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step117_branchingassignment\step117_branchingassignment\bin\Debug\netcoreapp3.1\step117_branchingassignment.runtimeconfig.json
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step117_branchingassignment\step117_branchingassignment\bin\Debug\netcoreapp3.1\step117_branchingassignment.runtimeconfig.dev.json
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step117_branchingassignment\step117_branchingassignment\bin\Debug\netcoreapp3.1\step117_branchingassignment.dll
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step117_branchingassignment\step117_branchingassignment\bin\Debug\netcoreapp3.1\step117_branchingassignment.pdb
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step117_branchingassignment\step117_branchingassignment\obj\Debug\netcoreapp3.1\step117_branchingassignment.csprojAssemblyReference.cache
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step117_branchingassignment\step117_branchingassignment\obj\Debug\netcoreapp3.1\step117_branchingassignment.AssemblyInfoInputs.cache
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step117_branchingassignment\step117_branchingassignment\obj\Debug\netcoreapp3.1\step117_branchingassignment.AssemblyInfo.cs
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step117_branchingassignment\step117_branchingassignment\obj\Debug\netcoreapp3.1\step117_branchingassignment.csproj.CoreCompileInputs.cache
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step117_branchingassignment\step117_branchingassignment\obj\Debug\netcoreapp3.1\step117_branchingassignment.dll
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step117_branchingassignment\step117_branchingassignment\obj\Debug\netcoreapp3.1\step117_branchingassignment.pdb
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step117_branchingassignment\step117_branchingassignment\obj\Debug\netcoreapp3.1\step117_branchingassignment.genruntimeconfig.cache
