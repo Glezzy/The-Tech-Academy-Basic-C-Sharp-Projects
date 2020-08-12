@@ -1,0 +1,13 @@
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\Step89_mathandcomparisonoperators\Step89_mathandcomparisonoperators\bin\Debug\netcoreapp3.1\Step89_mathandcomparisonoperators.exe
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\Step89_mathandcomparisonoperators\Step89_mathandcomparisonoperators\bin\Debug\netcoreapp3.1\Step89_mathandcomparisonoperators.deps.json
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\Step89_mathandcomparisonoperators\Step89_mathandcomparisonoperators\bin\Debug\netcoreapp3.1\Step89_mathandcomparisonoperators.runtimeconfig.json
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\Step89_mathandcomparisonoperators\Step89_mathandcomparisonoperators\bin\Debug\netcoreapp3.1\Step89_mathandcomparisonoperators.runtimeconfig.dev.json
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\Step89_mathandcomparisonoperators\Step89_mathandcomparisonoperators\bin\Debug\netcoreapp3.1\Step89_mathandcomparisonoperators.dll
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\Step89_mathandcomparisonoperators\Step89_mathandcomparisonoperators\bin\Debug\netcoreapp3.1\Step89_mathandcomparisonoperators.pdb
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\Step89_mathandcomparisonoperators\Step89_mathandcomparisonoperators\obj\Debug\netcoreapp3.1\Step89_mathandcomparisonoperators.csprojAssemblyReference.cache
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\Step89_mathandcomparisonoperators\Step89_mathandcomparisonoperators\obj\Debug\netcoreapp3.1\Step89_mathandcomparisonoperators.AssemblyInfoInputs.cache
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\Step89_mathandcomparisonoperators\Step89_mathandcomparisonoperators\obj\Debug\netcoreapp3.1\Step89_mathandcomparisonoperators.AssemblyInfo.cs
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\Step89_mathandcomparisonoperators\Step89_mathandcomparisonoperators\obj\Debug\netcoreapp3.1\Step89_mathandcomparisonoperators.csproj.CoreCompileInputs.cache
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\Step89_mathandcomparisonoperators\Step89_mathandcomparisonoperators\obj\Debug\netcoreapp3.1\Step89_mathandcomparisonoperators.dll
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\Step89_mathandcomparisonoperators\Step89_mathandcomparisonoperators\obj\Debug\netcoreapp3.1\Step89_mathandcomparisonoperators.pdb
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\Step89_mathandcomparisonoperators\Step89_mathandcomparisonoperators\obj\Debug\netcoreapp3.1\Step89_mathandcomparisonoperators.genruntimeconfig.cache
