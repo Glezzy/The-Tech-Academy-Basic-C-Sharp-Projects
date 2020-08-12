@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "step100_carinsurance", "step100_carinsurance\step100_carinsurance.csproj", "{0314B119-01D3-4455-A414-99CC9007D5AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0314B119-01D3-4455-A414-99CC9007D5AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0314B119-01D3-4455-A414-99CC9007D5AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0314B119-01D3-4455-A414-99CC9007D5AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0314B119-01D3-4455-A414-99CC9007D5AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F5D8248-188E-43A6-94A5-E3BBAB04E667}
+	EndGlobalSection
+EndGlobal

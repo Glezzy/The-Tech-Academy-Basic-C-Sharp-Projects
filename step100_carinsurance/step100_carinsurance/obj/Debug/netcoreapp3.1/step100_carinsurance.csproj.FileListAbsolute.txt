@@ -1,0 +1,13 @@
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step100_carinsurance\step100_carinsurance\bin\Debug\netcoreapp3.1\step100_carinsurance.exe
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step100_carinsurance\step100_carinsurance\bin\Debug\netcoreapp3.1\step100_carinsurance.deps.json
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step100_carinsurance\step100_carinsurance\bin\Debug\netcoreapp3.1\step100_carinsurance.runtimeconfig.json
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step100_carinsurance\step100_carinsurance\bin\Debug\netcoreapp3.1\step100_carinsurance.runtimeconfig.dev.json
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step100_carinsurance\step100_carinsurance\bin\Debug\netcoreapp3.1\step100_carinsurance.dll
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step100_carinsurance\step100_carinsurance\bin\Debug\netcoreapp3.1\step100_carinsurance.pdb
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step100_carinsurance\step100_carinsurance\obj\Debug\netcoreapp3.1\step100_carinsurance.csprojAssemblyReference.cache
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step100_carinsurance\step100_carinsurance\obj\Debug\netcoreapp3.1\step100_carinsurance.AssemblyInfoInputs.cache
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step100_carinsurance\step100_carinsurance\obj\Debug\netcoreapp3.1\step100_carinsurance.AssemblyInfo.cs
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step100_carinsurance\step100_carinsurance\obj\Debug\netcoreapp3.1\step100_carinsurance.csproj.CoreCompileInputs.cache
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step100_carinsurance\step100_carinsurance\obj\Debug\netcoreapp3.1\step100_carinsurance.dll
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step100_carinsurance\step100_carinsurance\obj\Debug\netcoreapp3.1\step100_carinsurance.pdb
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step100_carinsurance\step100_carinsurance\obj\Debug\netcoreapp3.1\step100_carinsurance.genruntimeconfig.cache
