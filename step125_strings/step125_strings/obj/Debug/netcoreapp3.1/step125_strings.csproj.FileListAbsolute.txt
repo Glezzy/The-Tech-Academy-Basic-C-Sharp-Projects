@@ -1,0 +1,13 @@
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step125_strings\step125_strings\bin\Debug\netcoreapp3.1\step125_strings.exe
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step125_strings\step125_strings\bin\Debug\netcoreapp3.1\step125_strings.deps.json
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step125_strings\step125_strings\bin\Debug\netcoreapp3.1\step125_strings.runtimeconfig.json
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step125_strings\step125_strings\bin\Debug\netcoreapp3.1\step125_strings.runtimeconfig.dev.json
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step125_strings\step125_strings\bin\Debug\netcoreapp3.1\step125_strings.dll
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step125_strings\step125_strings\bin\Debug\netcoreapp3.1\step125_strings.pdb
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step125_strings\step125_strings\obj\Debug\netcoreapp3.1\step125_strings.csprojAssemblyReference.cache
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step125_strings\step125_strings\obj\Debug\netcoreapp3.1\step125_strings.AssemblyInfoInputs.cache
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step125_strings\step125_strings\obj\Debug\netcoreapp3.1\step125_strings.AssemblyInfo.cs
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step125_strings\step125_strings\obj\Debug\netcoreapp3.1\step125_strings.csproj.CoreCompileInputs.cache
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step125_strings\step125_strings\obj\Debug\netcoreapp3.1\step125_strings.dll
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step125_strings\step125_strings\obj\Debug\netcoreapp3.1\step125_strings.pdb
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step125_strings\step125_strings\obj\Debug\netcoreapp3.1\step125_strings.genruntimeconfig.cache
