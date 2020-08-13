@@ -1,0 +1,13 @@
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step130_arrayofstrings\step130_arrayofstrings\bin\Debug\netcoreapp3.1\step130_arrayofstrings.exe
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step130_arrayofstrings\step130_arrayofstrings\bin\Debug\netcoreapp3.1\step130_arrayofstrings.deps.json
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step130_arrayofstrings\step130_arrayofstrings\bin\Debug\netcoreapp3.1\step130_arrayofstrings.runtimeconfig.json
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step130_arrayofstrings\step130_arrayofstrings\bin\Debug\netcoreapp3.1\step130_arrayofstrings.runtimeconfig.dev.json
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step130_arrayofstrings\step130_arrayofstrings\bin\Debug\netcoreapp3.1\step130_arrayofstrings.dll
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step130_arrayofstrings\step130_arrayofstrings\bin\Debug\netcoreapp3.1\step130_arrayofstrings.pdb
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step130_arrayofstrings\step130_arrayofstrings\obj\Debug\netcoreapp3.1\step130_arrayofstrings.csprojAssemblyReference.cache
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step130_arrayofstrings\step130_arrayofstrings\obj\Debug\netcoreapp3.1\step130_arrayofstrings.AssemblyInfoInputs.cache
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step130_arrayofstrings\step130_arrayofstrings\obj\Debug\netcoreapp3.1\step130_arrayofstrings.AssemblyInfo.cs
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step130_arrayofstrings\step130_arrayofstrings\obj\Debug\netcoreapp3.1\step130_arrayofstrings.csproj.CoreCompileInputs.cache
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step130_arrayofstrings\step130_arrayofstrings\obj\Debug\netcoreapp3.1\step130_arrayofstrings.dll
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step130_arrayofstrings\step130_arrayofstrings\obj\Debug\netcoreapp3.1\step130_arrayofstrings.pdb
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step130_arrayofstrings\step130_arrayofstrings\obj\Debug\netcoreapp3.1\step130_arrayofstrings.genruntimeconfig.cache
