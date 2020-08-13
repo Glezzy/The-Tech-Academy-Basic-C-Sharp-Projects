@@ -1,0 +1,13 @@
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step121_booleancomparisons\step121_booleancomparisons\bin\Debug\netcoreapp3.1\step121_booleancomparisons.exe
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step121_booleancomparisons\step121_booleancomparisons\bin\Debug\netcoreapp3.1\step121_booleancomparisons.deps.json
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step121_booleancomparisons\step121_booleancomparisons\bin\Debug\netcoreapp3.1\step121_booleancomparisons.runtimeconfig.json
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step121_booleancomparisons\step121_booleancomparisons\bin\Debug\netcoreapp3.1\step121_booleancomparisons.runtimeconfig.dev.json
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step121_booleancomparisons\step121_booleancomparisons\bin\Debug\netcoreapp3.1\step121_booleancomparisons.dll
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step121_booleancomparisons\step121_booleancomparisons\bin\Debug\netcoreapp3.1\step121_booleancomparisons.pdb
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step121_booleancomparisons\step121_booleancomparisons\obj\Debug\netcoreapp3.1\step121_booleancomparisons.csprojAssemblyReference.cache
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step121_booleancomparisons\step121_booleancomparisons\obj\Debug\netcoreapp3.1\step121_booleancomparisons.AssemblyInfoInputs.cache
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step121_booleancomparisons\step121_booleancomparisons\obj\Debug\netcoreapp3.1\step121_booleancomparisons.AssemblyInfo.cs
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step121_booleancomparisons\step121_booleancomparisons\obj\Debug\netcoreapp3.1\step121_booleancomparisons.csproj.CoreCompileInputs.cache
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step121_booleancomparisons\step121_booleancomparisons\obj\Debug\netcoreapp3.1\step121_booleancomparisons.dll
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step121_booleancomparisons\step121_booleancomparisons\obj\Debug\netcoreapp3.1\step121_booleancomparisons.pdb
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step121_booleancomparisons\step121_booleancomparisons\obj\Debug\netcoreapp3.1\step121_booleancomparisons.genruntimeconfig.cache
