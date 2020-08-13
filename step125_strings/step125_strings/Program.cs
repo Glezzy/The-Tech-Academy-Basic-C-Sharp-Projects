@@ -13,7 +13,7 @@ namespace assignment_page_125
             string s3 = "To the place I belong.";
 
             SlowType(50, s1.ToUpper() + s2 + s3.ToUpper());
-            Console.ReadLine(ConsoleColor.Cyan);
+            Console.ReadLine();
 
             StringBuilder sb = new StringBuilder();
 
