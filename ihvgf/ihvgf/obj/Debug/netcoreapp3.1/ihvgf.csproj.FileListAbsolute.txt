@@ -1,0 +1,12 @@
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\ihvgf\ihvgf\bin\Debug\netcoreapp3.1\ihvgf.exe
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\ihvgf\ihvgf\bin\Debug\netcoreapp3.1\ihvgf.deps.json
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\ihvgf\ihvgf\bin\Debug\netcoreapp3.1\ihvgf.runtimeconfig.json
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\ihvgf\ihvgf\bin\Debug\netcoreapp3.1\ihvgf.runtimeconfig.dev.json
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\ihvgf\ihvgf\bin\Debug\netcoreapp3.1\ihvgf.dll
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\ihvgf\ihvgf\bin\Debug\netcoreapp3.1\ihvgf.pdb
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\ihvgf\ihvgf\obj\Debug\netcoreapp3.1\ihvgf.AssemblyInfoInputs.cache
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\ihvgf\ihvgf\obj\Debug\netcoreapp3.1\ihvgf.AssemblyInfo.cs
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\ihvgf\ihvgf\obj\Debug\netcoreapp3.1\ihvgf.csproj.CoreCompileInputs.cache
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\ihvgf\ihvgf\obj\Debug\netcoreapp3.1\ihvgf.dll
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\ihvgf\ihvgf\obj\Debug\netcoreapp3.1\ihvgf.pdb
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\ihvgf\ihvgf\obj\Debug\netcoreapp3.1\ihvgf.genruntimeconfig.cache

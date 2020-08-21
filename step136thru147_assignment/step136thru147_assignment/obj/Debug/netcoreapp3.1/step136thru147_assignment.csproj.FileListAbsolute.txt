@@ -1,0 +1,13 @@
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step136thru147_assignment\step136thru147_assignment\bin\Debug\netcoreapp3.1\step136thru147_assignment.exe
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step136thru147_assignment\step136thru147_assignment\bin\Debug\netcoreapp3.1\step136thru147_assignment.deps.json
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step136thru147_assignment\step136thru147_assignment\bin\Debug\netcoreapp3.1\step136thru147_assignment.runtimeconfig.json
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step136thru147_assignment\step136thru147_assignment\bin\Debug\netcoreapp3.1\step136thru147_assignment.runtimeconfig.dev.json
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step136thru147_assignment\step136thru147_assignment\bin\Debug\netcoreapp3.1\step136thru147_assignment.dll
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step136thru147_assignment\step136thru147_assignment\bin\Debug\netcoreapp3.1\step136thru147_assignment.pdb
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step136thru147_assignment\step136thru147_assignment\obj\Debug\netcoreapp3.1\step136thru147_assignment.csprojAssemblyReference.cache
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step136thru147_assignment\step136thru147_assignment\obj\Debug\netcoreapp3.1\step136thru147_assignment.AssemblyInfoInputs.cache
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step136thru147_assignment\step136thru147_assignment\obj\Debug\netcoreapp3.1\step136thru147_assignment.AssemblyInfo.cs
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step136thru147_assignment\step136thru147_assignment\obj\Debug\netcoreapp3.1\step136thru147_assignment.csproj.CoreCompileInputs.cache
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step136thru147_assignment\step136thru147_assignment\obj\Debug\netcoreapp3.1\step136thru147_assignment.dll
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step136thru147_assignment\step136thru147_assignment\obj\Debug\netcoreapp3.1\step136thru147_assignment.pdb
+C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\step136thru147_assignment\step136thru147_assignment\obj\Debug\netcoreapp3.1\step136thru147_assignment.genruntimeconfig.cache
