@@ -1,0 +1,13 @@
+C:\Users\Greg\source\repos\step161_createthreemethods\step161_createthreemethods\bin\Debug\netcoreapp3.1\step161_createthreemethods.exe
+C:\Users\Greg\source\repos\step161_createthreemethods\step161_createthreemethods\bin\Debug\netcoreapp3.1\step161_createthreemethods.deps.json
+C:\Users\Greg\source\repos\step161_createthreemethods\step161_createthreemethods\bin\Debug\netcoreapp3.1\step161_createthreemethods.runtimeconfig.json
+C:\Users\Greg\source\repos\step161_createthreemethods\step161_createthreemethods\bin\Debug\netcoreapp3.1\step161_createthreemethods.runtimeconfig.dev.json
+C:\Users\Greg\source\repos\step161_createthreemethods\step161_createthreemethods\bin\Debug\netcoreapp3.1\step161_createthreemethods.dll
+C:\Users\Greg\source\repos\step161_createthreemethods\step161_createthreemethods\bin\Debug\netcoreapp3.1\step161_createthreemethods.pdb
+C:\Users\Greg\source\repos\step161_createthreemethods\step161_createthreemethods\obj\Debug\netcoreapp3.1\step161_createthreemethods.csprojAssemblyReference.cache
+C:\Users\Greg\source\repos\step161_createthreemethods\step161_createthreemethods\obj\Debug\netcoreapp3.1\step161_createthreemethods.AssemblyInfoInputs.cache
+C:\Users\Greg\source\repos\step161_createthreemethods\step161_createthreemethods\obj\Debug\netcoreapp3.1\step161_createthreemethods.AssemblyInfo.cs
+C:\Users\Greg\source\repos\step161_createthreemethods\step161_createthreemethods\obj\Debug\netcoreapp3.1\step161_createthreemethods.csproj.CoreCompileInputs.cache
+C:\Users\Greg\source\repos\step161_createthreemethods\step161_createthreemethods\obj\Debug\netcoreapp3.1\step161_createthreemethods.dll
+C:\Users\Greg\source\repos\step161_createthreemethods\step161_createthreemethods\obj\Debug\netcoreapp3.1\step161_createthreemethods.pdb
+C:\Users\Greg\source\repos\step161_createthreemethods\step161_createthreemethods\obj\Debug\netcoreapp3.1\step161_createthreemethods.genruntimeconfig.cache

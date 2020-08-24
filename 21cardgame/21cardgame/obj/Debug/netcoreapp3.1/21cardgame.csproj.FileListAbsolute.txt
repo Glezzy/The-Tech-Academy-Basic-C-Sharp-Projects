@@ -1,0 +1,13 @@
+C:\Users\Greg\source\repos\21cardgame\21cardgame\bin\Debug\netcoreapp3.1\21cardgame.exe
+C:\Users\Greg\source\repos\21cardgame\21cardgame\bin\Debug\netcoreapp3.1\21cardgame.deps.json
+C:\Users\Greg\source\repos\21cardgame\21cardgame\bin\Debug\netcoreapp3.1\21cardgame.runtimeconfig.json
+C:\Users\Greg\source\repos\21cardgame\21cardgame\bin\Debug\netcoreapp3.1\21cardgame.runtimeconfig.dev.json
+C:\Users\Greg\source\repos\21cardgame\21cardgame\bin\Debug\netcoreapp3.1\21cardgame.dll
+C:\Users\Greg\source\repos\21cardgame\21cardgame\bin\Debug\netcoreapp3.1\21cardgame.pdb
+C:\Users\Greg\source\repos\21cardgame\21cardgame\obj\Debug\netcoreapp3.1\21cardgame.csprojAssemblyReference.cache
+C:\Users\Greg\source\repos\21cardgame\21cardgame\obj\Debug\netcoreapp3.1\21cardgame.AssemblyInfoInputs.cache
+C:\Users\Greg\source\repos\21cardgame\21cardgame\obj\Debug\netcoreapp3.1\21cardgame.AssemblyInfo.cs
+C:\Users\Greg\source\repos\21cardgame\21cardgame\obj\Debug\netcoreapp3.1\21cardgame.csproj.CoreCompileInputs.cache
+C:\Users\Greg\source\repos\21cardgame\21cardgame\obj\Debug\netcoreapp3.1\21cardgame.dll
+C:\Users\Greg\source\repos\21cardgame\21cardgame\obj\Debug\netcoreapp3.1\21cardgame.pdb
+C:\Users\Greg\source\repos\21cardgame\21cardgame\obj\Debug\netcoreapp3.1\21cardgame.genruntimeconfig.cache

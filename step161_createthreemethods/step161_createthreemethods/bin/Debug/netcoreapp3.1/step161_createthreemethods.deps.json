@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "step161_createthreemethods/1.0.0": {
+        "runtime": {
+          "step161_createthreemethods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "step161_createthreemethods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
