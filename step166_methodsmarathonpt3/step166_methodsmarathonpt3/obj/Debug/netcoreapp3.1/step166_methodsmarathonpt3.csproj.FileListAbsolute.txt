@@ -1,0 +1,13 @@
+C:\Users\Greg\source\repos\step166_methodsmarathonpt3\step166_methodsmarathonpt3\obj\Debug\netcoreapp3.1\step166_methodsmarathonpt3.csprojAssemblyReference.cache
+C:\Users\Greg\source\repos\step166_methodsmarathonpt3\step166_methodsmarathonpt3\obj\Debug\netcoreapp3.1\step166_methodsmarathonpt3.AssemblyInfoInputs.cache
+C:\Users\Greg\source\repos\step166_methodsmarathonpt3\step166_methodsmarathonpt3\obj\Debug\netcoreapp3.1\step166_methodsmarathonpt3.AssemblyInfo.cs
+C:\Users\Greg\source\repos\step166_methodsmarathonpt3\step166_methodsmarathonpt3\obj\Debug\netcoreapp3.1\step166_methodsmarathonpt3.csproj.CoreCompileInputs.cache
+C:\Users\Greg\source\repos\step166_methodsmarathonpt3\step166_methodsmarathonpt3\bin\Debug\netcoreapp3.1\step166_methodsmarathonpt3.exe
+C:\Users\Greg\source\repos\step166_methodsmarathonpt3\step166_methodsmarathonpt3\bin\Debug\netcoreapp3.1\step166_methodsmarathonpt3.deps.json
+C:\Users\Greg\source\repos\step166_methodsmarathonpt3\step166_methodsmarathonpt3\bin\Debug\netcoreapp3.1\step166_methodsmarathonpt3.runtimeconfig.json
+C:\Users\Greg\source\repos\step166_methodsmarathonpt3\step166_methodsmarathonpt3\bin\Debug\netcoreapp3.1\step166_methodsmarathonpt3.runtimeconfig.dev.json
+C:\Users\Greg\source\repos\step166_methodsmarathonpt3\step166_methodsmarathonpt3\bin\Debug\netcoreapp3.1\step166_methodsmarathonpt3.dll
+C:\Users\Greg\source\repos\step166_methodsmarathonpt3\step166_methodsmarathonpt3\bin\Debug\netcoreapp3.1\step166_methodsmarathonpt3.pdb
+C:\Users\Greg\source\repos\step166_methodsmarathonpt3\step166_methodsmarathonpt3\obj\Debug\netcoreapp3.1\step166_methodsmarathonpt3.dll
+C:\Users\Greg\source\repos\step166_methodsmarathonpt3\step166_methodsmarathonpt3\obj\Debug\netcoreapp3.1\step166_methodsmarathonpt3.pdb
+C:\Users\Greg\source\repos\step166_methodsmarathonpt3\step166_methodsmarathonpt3\obj\Debug\netcoreapp3.1\step166_methodsmarathonpt3.genruntimeconfig.cache
