@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "step152_Exceptionsassignment/1.0.0": {
+        "runtime": {
+          "step152_Exceptionsassignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "step152_Exceptionsassignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

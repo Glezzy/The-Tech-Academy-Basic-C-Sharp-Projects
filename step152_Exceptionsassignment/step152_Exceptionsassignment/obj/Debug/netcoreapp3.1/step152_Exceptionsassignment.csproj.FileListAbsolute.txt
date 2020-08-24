@@ -1,0 +1,13 @@
+C:\Users\Greg\source\repos\step152_Exceptionsassignment\step152_Exceptionsassignment\bin\Debug\netcoreapp3.1\step152_Exceptionsassignment.exe
+C:\Users\Greg\source\repos\step152_Exceptionsassignment\step152_Exceptionsassignment\bin\Debug\netcoreapp3.1\step152_Exceptionsassignment.deps.json
+C:\Users\Greg\source\repos\step152_Exceptionsassignment\step152_Exceptionsassignment\bin\Debug\netcoreapp3.1\step152_Exceptionsassignment.runtimeconfig.json
+C:\Users\Greg\source\repos\step152_Exceptionsassignment\step152_Exceptionsassignment\bin\Debug\netcoreapp3.1\step152_Exceptionsassignment.runtimeconfig.dev.json
+C:\Users\Greg\source\repos\step152_Exceptionsassignment\step152_Exceptionsassignment\bin\Debug\netcoreapp3.1\step152_Exceptionsassignment.dll
+C:\Users\Greg\source\repos\step152_Exceptionsassignment\step152_Exceptionsassignment\bin\Debug\netcoreapp3.1\step152_Exceptionsassignment.pdb
+C:\Users\Greg\source\repos\step152_Exceptionsassignment\step152_Exceptionsassignment\obj\Debug\netcoreapp3.1\step152_Exceptionsassignment.csprojAssemblyReference.cache
+C:\Users\Greg\source\repos\step152_Exceptionsassignment\step152_Exceptionsassignment\obj\Debug\netcoreapp3.1\step152_Exceptionsassignment.AssemblyInfoInputs.cache
+C:\Users\Greg\source\repos\step152_Exceptionsassignment\step152_Exceptionsassignment\obj\Debug\netcoreapp3.1\step152_Exceptionsassignment.AssemblyInfo.cs
+C:\Users\Greg\source\repos\step152_Exceptionsassignment\step152_Exceptionsassignment\obj\Debug\netcoreapp3.1\step152_Exceptionsassignment.csproj.CoreCompileInputs.cache
+C:\Users\Greg\source\repos\step152_Exceptionsassignment\step152_Exceptionsassignment\obj\Debug\netcoreapp3.1\step152_Exceptionsassignment.dll
+C:\Users\Greg\source\repos\step152_Exceptionsassignment\step152_Exceptionsassignment\obj\Debug\netcoreapp3.1\step152_Exceptionsassignment.pdb
+C:\Users\Greg\source\repos\step152_Exceptionsassignment\step152_Exceptionsassignment\obj\Debug\netcoreapp3.1\step152_Exceptionsassignment.genruntimeconfig.cache
