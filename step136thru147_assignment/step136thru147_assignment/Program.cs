@@ -98,21 +98,21 @@ namespace step136thru147_assignment
             bool check2 = false;
             foreach (string dog in doggos)
             {
+             while (!check2)
                 if (guess2 == dog)
                 {
                     Console.Write(Environment.NewLine);
                     Console.WriteLine("Correct guess. " + dog + " is in the list.");
                     break;
                 }
+                // step 143 
+                else
+                {
+                    Console.Write(guess2 + " is not in the list.");
+                    Console.Write("Please guess again a different dog breed on the list: ");
+                        
+                }
             }
-
-            Console.ReadLine();
-            // step 143 
-            if (check2 == false)
-            {
-                Console.Write(guess2 + " is not in the list.");
-            }
-
             Console.ReadLine();
             // step 144 Add code to that above loop that stops it from executing once a match has been found.
             List<string> doggos2 = new List<string>();
@@ -125,27 +125,30 @@ namespace step136thru147_assignment
 
             Console.WriteLine("Please guess a dog breed on the list: ");
             StringBuilder input2 = new StringBuilder(Console.ReadLine());
-            input2[0] = Char.ToUpper(input[0]);
-            string guess3 = input.ToString();
+            input2[0] = Char.ToUpper(input2[0]);
+            string guess3 = input2.ToString();
             bool check3 = false;
+                
+                    foreach (string dog2 in doggos2)
+                    {
+                        if (guess3 == dog2)
+                        {
+                            Console.Write(Environment.NewLine);
+                            Console.WriteLine("Correct guess. " + dog2 + " is in the list.");
+                            check3 = true;
+                            break;
+                        }
+                    }
+                    if (check3 == false)
+                    {
+                        Console.Write(Environment.NewLine);
+                        Console.WriteLine(guess3 + " is not on the list. ");     
+                        Console.Write(Environment.NewLine);
+                        Console.WriteLine("Please guess a different dog breed.");
+                    }
+        
 
-            foreach (string dog2 in doggos2)
-            {
-                if (guess3 == dog2)
-                {
-                    Console.Write(Environment.NewLine);
-                    Console.WriteLine("Correct guess. " + dog2 + " is in the list.");
-                    check3 = true;
-                    break;
-                }
-            }
-
-            if (check3 == false)
-            {
-                Console.Write(guess3 + " is not in the list.");
-            }
-
-            Console.ReadLine();
+        Console.ReadLine();
             // step 145
             // Create a List of strings that has at least two identical strings in the List. 
             // Ask the user to select text to search for in the List. Create a loop that iterates 
@@ -191,7 +194,7 @@ namespace step136thru147_assignment
             if (check4 == false)
             {
                 Console.Write(Environment.NewLine);
-                Console.WriteLine(guess4 + " is not in the list.");
+                Console.WriteLine(guess5 + " is not in the list.");
             }
 
             Console.ReadLine();
@@ -221,7 +224,7 @@ namespace step136thru147_assignment
             Console.Write(Environment.NewLine);
             foreach (var doggo in duplicates)
 
-                SlowType(50, "The doggo bread " + doggo + " has already appeared in the list. \n");
+                SlowType(50, "The doggo breed " + doggo + " has already appeared in the list. \n");
             Console.Write(Environment.NewLine);
 
             static void SlowType(int milsec_delay, string str)
