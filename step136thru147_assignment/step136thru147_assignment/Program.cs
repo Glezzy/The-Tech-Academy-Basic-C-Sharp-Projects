@@ -92,25 +92,28 @@ namespace step136thru147_assignment
             doggos.Add("Australian Shepard");
 
             Console.WriteLine("Please guess a word in the list. Hint the list is the names of my favorite dog breeds. ");
-            StringBuilder input = new StringBuilder(Console.ReadLine());
-            input[0] = Char.ToUpper(input[0]);
-            string guess2 = input.ToString();
+           
             bool check2 = false;
             foreach (string dog in doggos)
             {
-             while (!check2)
-                if (guess2 == dog)
+                while (!check2)
                 {
-                    Console.Write(Environment.NewLine);
-                    Console.WriteLine("Correct guess. " + dog + " is in the list.");
-                    break;
-                }
-                // step 143 
-                else
-                {
-                    Console.Write(guess2 + " is not in the list.");
-                    Console.Write("Please guess again a different dog breed on the list: ");
-                        
+                    StringBuilder input = new StringBuilder(Console.ReadLine());
+                    input[0] = Char.ToUpper(input[0]);
+                    string guess2 = input.ToString();
+                    if (guess2 == dog)
+                    {
+                        Console.Write(Environment.NewLine);
+                        Console.WriteLine("Correct guess. " + dog + " is in the list.");
+                        check2 = true;
+                    }
+                    // step 143 
+                    else
+                    {
+
+                        Console.Write(guess2 + " is not in the list.");
+                        Console.Write("Please guess again a different dog breed on the list: ");                       
+                    };
                 }
             }
             Console.ReadLine();

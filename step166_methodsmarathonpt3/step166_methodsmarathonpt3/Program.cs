@@ -9,6 +9,7 @@ namespace step166_methodsmarathonpt3
         {
             Math math = new Math();
             math.Operation(x: 10, y: 25);
+            math.Operation(10, 25);
         }
     }
 }
