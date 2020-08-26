@@ -1,0 +1,12 @@
+C:\Users\Greg\source\repos\step174_inheritance\step174_inheritance\bin\Debug\netcoreapp3.1\step174_inheritance.exe
+C:\Users\Greg\source\repos\step174_inheritance\step174_inheritance\bin\Debug\netcoreapp3.1\step174_inheritance.deps.json
+C:\Users\Greg\source\repos\step174_inheritance\step174_inheritance\bin\Debug\netcoreapp3.1\step174_inheritance.runtimeconfig.json
+C:\Users\Greg\source\repos\step174_inheritance\step174_inheritance\bin\Debug\netcoreapp3.1\step174_inheritance.runtimeconfig.dev.json
+C:\Users\Greg\source\repos\step174_inheritance\step174_inheritance\bin\Debug\netcoreapp3.1\step174_inheritance.dll
+C:\Users\Greg\source\repos\step174_inheritance\step174_inheritance\bin\Debug\netcoreapp3.1\step174_inheritance.pdb
+C:\Users\Greg\source\repos\step174_inheritance\step174_inheritance\obj\Debug\netcoreapp3.1\step174_inheritance.AssemblyInfoInputs.cache
+C:\Users\Greg\source\repos\step174_inheritance\step174_inheritance\obj\Debug\netcoreapp3.1\step174_inheritance.AssemblyInfo.cs
+C:\Users\Greg\source\repos\step174_inheritance\step174_inheritance\obj\Debug\netcoreapp3.1\step174_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Greg\source\repos\step174_inheritance\step174_inheritance\obj\Debug\netcoreapp3.1\step174_inheritance.dll
+C:\Users\Greg\source\repos\step174_inheritance\step174_inheritance\obj\Debug\netcoreapp3.1\step174_inheritance.pdb
+C:\Users\Greg\source\repos\step174_inheritance\step174_inheritance\obj\Debug\netcoreapp3.1\step174_inheritance.genruntimeconfig.cache

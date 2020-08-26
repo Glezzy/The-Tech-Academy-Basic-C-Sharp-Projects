@@ -79,79 +79,37 @@ namespace step136thru147_assignment
             Console.Write(Environment.NewLine);
             Console.WriteLine(number2 + " is greater than 50.");
             Console.ReadLine();
-            // step 142
+            // step 142 through 144
             // Create a List of strings where each item in the list is unique. 
             // Ask the user to input text to search for in the List. Create a loop that iterates through the List 
             // and then displays on the screen the index of the List item that matches the user input.
-            List<string> doggos = new List<string>();
-            doggos.Add("Husky");
-            doggos.Add("German Shepard");
-            doggos.Add("Coonhound");
-            doggos.Add("Golden Retriever");
-            doggos.Add("Coonhound");
-            doggos.Add("Australian Shepard");
+            List<string> doggos = new List<string>() { "husky", "german shepard", "coonhound", "golden retriever", "coonhound", "australian shepard" };
 
             Console.WriteLine("Please guess a word in the list. Hint the list is the names of my favorite dog breeds. ");
-           
-            bool check2 = false;
-            foreach (string dog in doggos)
+            string guess = Console.ReadLine();
+            bool check1 = false;
+
+            while (!check1)
             {
-                while (!check2)
+                foreach (string dog in doggos)
                 {
-                    StringBuilder input = new StringBuilder(Console.ReadLine());
-                    input[0] = Char.ToUpper(input[0]);
-                    string guess2 = input.ToString();
-                    if (guess2 == dog)
-                    {
-                        Console.Write(Environment.NewLine);
-                        Console.WriteLine("Correct guess. " + dog + " is in the list.");
-                        check2 = true;
-                    }
-                    // step 143 
-                    else
-                    {
 
-                        Console.Write(guess2 + " is not in the list.");
-                        Console.Write("Please guess again a different dog breed on the list: ");                       
-                    };
+                    if (guess == dog)
+                    {
+                        Console.WriteLine(guess + " is a dog on the list! Congrats!!!." + doggos.IndexOf(dog));
+                        check1 = true;
+                    }
                 }
-            }
-            Console.ReadLine();
+                if (!check1)
+                {
+                    Console.WriteLine(guess + " is not a dog breed on the list.");
+                    Console.WriteLine("Please guess a different dog breed.");
+                    guess = Console.ReadLine();
+                }
+            }     
+
             // step 144 Add code to that above loop that stops it from executing once a match has been found.
-            List<string> doggos2 = new List<string>();
-            doggos2.Add("Husky");
-            doggos2.Add("German Shepard");
-            doggos2.Add("Coonhound");
-            doggos2.Add("Golden Retriever");
-            doggos2.Add("Coonhound");
-            doggos2.Add("Australian Shepard");
-
-            Console.WriteLine("Please guess a dog breed on the list: ");
-            StringBuilder input2 = new StringBuilder(Console.ReadLine());
-            input2[0] = Char.ToUpper(input2[0]);
-            string guess3 = input2.ToString();
-            bool check3 = false;
-                
-                    foreach (string dog2 in doggos2)
-                    {
-                        if (guess3 == dog2)
-                        {
-                            Console.Write(Environment.NewLine);
-                            Console.WriteLine("Correct guess. " + dog2 + " is in the list.");
-                            check3 = true;
-                            break;
-                        }
-                    }
-                    if (check3 == false)
-                    {
-                        Console.Write(Environment.NewLine);
-                        Console.WriteLine(guess3 + " is not on the list. ");     
-                        Console.Write(Environment.NewLine);
-                        Console.WriteLine("Please guess a different dog breed.");
-                    }
-        
-
-        Console.ReadLine();
+           
             // step 145
             // Create a List of strings that has at least two identical strings in the List. 
             // Ask the user to select text to search for in the List. Create a loop that iterates 
