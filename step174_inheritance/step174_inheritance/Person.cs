@@ -11,7 +11,7 @@ namespace step174_inheritance
 
         public void SayName()
         {
-            Console.WriteLine("Name: " + FirstName + "" + LastName);
+            Console.WriteLine("Name: " + FirstName + " " + LastName);
         }
     }
 }
