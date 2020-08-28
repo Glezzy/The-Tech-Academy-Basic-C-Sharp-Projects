@@ -1,0 +1,13 @@
+C:\Users\Greg\source\repos\step237_polymorphism\step237_polymorphism\obj\Debug\netcoreapp3.1\step237_polymorphism.csprojAssemblyReference.cache
+C:\Users\Greg\source\repos\step237_polymorphism\step237_polymorphism\obj\Debug\netcoreapp3.1\step237_polymorphism.AssemblyInfoInputs.cache
+C:\Users\Greg\source\repos\step237_polymorphism\step237_polymorphism\obj\Debug\netcoreapp3.1\step237_polymorphism.AssemblyInfo.cs
+C:\Users\Greg\source\repos\step237_polymorphism\step237_polymorphism\obj\Debug\netcoreapp3.1\step237_polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Greg\source\repos\step237_polymorphism\step237_polymorphism\bin\Debug\netcoreapp3.1\step237_polymorphism.exe
+C:\Users\Greg\source\repos\step237_polymorphism\step237_polymorphism\bin\Debug\netcoreapp3.1\step237_polymorphism.deps.json
+C:\Users\Greg\source\repos\step237_polymorphism\step237_polymorphism\bin\Debug\netcoreapp3.1\step237_polymorphism.runtimeconfig.json
+C:\Users\Greg\source\repos\step237_polymorphism\step237_polymorphism\bin\Debug\netcoreapp3.1\step237_polymorphism.runtimeconfig.dev.json
+C:\Users\Greg\source\repos\step237_polymorphism\step237_polymorphism\bin\Debug\netcoreapp3.1\step237_polymorphism.dll
+C:\Users\Greg\source\repos\step237_polymorphism\step237_polymorphism\bin\Debug\netcoreapp3.1\step237_polymorphism.pdb
+C:\Users\Greg\source\repos\step237_polymorphism\step237_polymorphism\obj\Debug\netcoreapp3.1\step237_polymorphism.dll
+C:\Users\Greg\source\repos\step237_polymorphism\step237_polymorphism\obj\Debug\netcoreapp3.1\step237_polymorphism.pdb
+C:\Users\Greg\source\repos\step237_polymorphism\step237_polymorphism\obj\Debug\netcoreapp3.1\step237_polymorphism.genruntimeconfig.cache
