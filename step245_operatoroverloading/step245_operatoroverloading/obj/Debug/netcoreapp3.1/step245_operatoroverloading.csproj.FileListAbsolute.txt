@@ -1,0 +1,13 @@
+C:\Users\Greg\source\repos\step245_operatoroverloading\step245_operatoroverloading\bin\Debug\netcoreapp3.1\step245_operatoroverloading.exe
+C:\Users\Greg\source\repos\step245_operatoroverloading\step245_operatoroverloading\bin\Debug\netcoreapp3.1\step245_operatoroverloading.deps.json
+C:\Users\Greg\source\repos\step245_operatoroverloading\step245_operatoroverloading\bin\Debug\netcoreapp3.1\step245_operatoroverloading.runtimeconfig.json
+C:\Users\Greg\source\repos\step245_operatoroverloading\step245_operatoroverloading\bin\Debug\netcoreapp3.1\step245_operatoroverloading.runtimeconfig.dev.json
+C:\Users\Greg\source\repos\step245_operatoroverloading\step245_operatoroverloading\bin\Debug\netcoreapp3.1\step245_operatoroverloading.dll
+C:\Users\Greg\source\repos\step245_operatoroverloading\step245_operatoroverloading\bin\Debug\netcoreapp3.1\step245_operatoroverloading.pdb
+C:\Users\Greg\source\repos\step245_operatoroverloading\step245_operatoroverloading\obj\Debug\netcoreapp3.1\step245_operatoroverloading.csprojAssemblyReference.cache
+C:\Users\Greg\source\repos\step245_operatoroverloading\step245_operatoroverloading\obj\Debug\netcoreapp3.1\step245_operatoroverloading.AssemblyInfoInputs.cache
+C:\Users\Greg\source\repos\step245_operatoroverloading\step245_operatoroverloading\obj\Debug\netcoreapp3.1\step245_operatoroverloading.AssemblyInfo.cs
+C:\Users\Greg\source\repos\step245_operatoroverloading\step245_operatoroverloading\obj\Debug\netcoreapp3.1\step245_operatoroverloading.csproj.CoreCompileInputs.cache
+C:\Users\Greg\source\repos\step245_operatoroverloading\step245_operatoroverloading\obj\Debug\netcoreapp3.1\step245_operatoroverloading.dll
+C:\Users\Greg\source\repos\step245_operatoroverloading\step245_operatoroverloading\obj\Debug\netcoreapp3.1\step245_operatoroverloading.pdb
+C:\Users\Greg\source\repos\step245_operatoroverloading\step245_operatoroverloading\obj\Debug\netcoreapp3.1\step245_operatoroverloading.genruntimeconfig.cache
