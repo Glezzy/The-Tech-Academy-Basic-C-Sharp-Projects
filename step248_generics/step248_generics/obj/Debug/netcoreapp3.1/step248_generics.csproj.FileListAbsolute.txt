@@ -1,0 +1,13 @@
+C:\Users\Greg\source\repos\step248_generics\step248_generics\bin\Debug\netcoreapp3.1\step248_generics.exe
+C:\Users\Greg\source\repos\step248_generics\step248_generics\bin\Debug\netcoreapp3.1\step248_generics.deps.json
+C:\Users\Greg\source\repos\step248_generics\step248_generics\bin\Debug\netcoreapp3.1\step248_generics.runtimeconfig.json
+C:\Users\Greg\source\repos\step248_generics\step248_generics\bin\Debug\netcoreapp3.1\step248_generics.runtimeconfig.dev.json
+C:\Users\Greg\source\repos\step248_generics\step248_generics\bin\Debug\netcoreapp3.1\step248_generics.dll
+C:\Users\Greg\source\repos\step248_generics\step248_generics\bin\Debug\netcoreapp3.1\step248_generics.pdb
+C:\Users\Greg\source\repos\step248_generics\step248_generics\obj\Debug\netcoreapp3.1\step248_generics.csprojAssemblyReference.cache
+C:\Users\Greg\source\repos\step248_generics\step248_generics\obj\Debug\netcoreapp3.1\step248_generics.AssemblyInfoInputs.cache
+C:\Users\Greg\source\repos\step248_generics\step248_generics\obj\Debug\netcoreapp3.1\step248_generics.AssemblyInfo.cs
+C:\Users\Greg\source\repos\step248_generics\step248_generics\obj\Debug\netcoreapp3.1\step248_generics.csproj.CoreCompileInputs.cache
+C:\Users\Greg\source\repos\step248_generics\step248_generics\obj\Debug\netcoreapp3.1\step248_generics.dll
+C:\Users\Greg\source\repos\step248_generics\step248_generics\obj\Debug\netcoreapp3.1\step248_generics.pdb
+C:\Users\Greg\source\repos\step248_generics\step248_generics\obj\Debug\netcoreapp3.1\step248_generics.genruntimeconfig.cache
