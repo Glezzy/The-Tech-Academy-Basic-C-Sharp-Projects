@@ -26,6 +26,7 @@ namespace Step254_Enumerating
                     else
                     {
                         Console.WriteLine("Correct, {0} is the current day of the week.", day.ToString());
+                        check = false;
                     }
                 }
                 catch (Exception)
@@ -41,13 +42,13 @@ namespace Step254_Enumerating
 
         public enum DaysOfTheWeek
         {
-            Monday,
-            Tuesday,
-            Wednesday,
-            Thursday,
-            Friday,
-            Saturday,
-            Sunday
+            monday,
+            tuesday,
+            wednesday,
+            thursday,
+            friday,
+            saturday,
+            sunday
         }
     }
 }
