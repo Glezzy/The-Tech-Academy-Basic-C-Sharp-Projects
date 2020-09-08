@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Greg\\source\\repos\\Step254_Enumerating\\Step254_Enumerating\\Step254_Enumerating.csproj",
-      "projectName": "Step254_Enumerating",
-      "projectPath": "C:\\Users\\Greg\\source\\repos\\Step254_Enumerating\\Step254_Enumerating\\Step254_Enumerating.csproj",
+      "projectUniqueName": "C:\\Users\\Greg\\source\\repos\\step254_enumerating2\\step254_enumerating2\\step254_enumerating2.csproj",
+      "projectName": "step254_enumerating2",
+      "projectPath": "C:\\Users\\Greg\\source\\repos\\step254_enumerating2\\step254_enumerating2\\step254_enumerating2.csproj",
       "packagesPath": "C:\\Users\\Greg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Greg\\source\\repos\\Step254_Enumerating\\Step254_Enumerating\\obj\\",
+      "outputPath": "C:\\Users\\Greg\\source\\repos\\step254_enumerating2\\step254_enumerating2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Greg\\AppData\\Roaming\\NuGet\\NuGet.Config",

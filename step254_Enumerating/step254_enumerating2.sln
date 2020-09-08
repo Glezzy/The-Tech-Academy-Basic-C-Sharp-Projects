@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30330.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Step254_Enumerating", "Step254_Enumerating\Step254_Enumerating.csproj", "{39795D26-90D3-4460-9E23-7E50C95FFFD5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "step254_enumerating2", "step254_enumerating2\step254_enumerating2.csproj", "{BAAB9D69-D899-44AC-B5FD-1747E332920A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{39795D26-90D3-4460-9E23-7E50C95FFFD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{39795D26-90D3-4460-9E23-7E50C95FFFD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{39795D26-90D3-4460-9E23-7E50C95FFFD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{39795D26-90D3-4460-9E23-7E50C95FFFD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAAB9D69-D899-44AC-B5FD-1747E332920A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAAB9D69-D899-44AC-B5FD-1747E332920A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAAB9D69-D899-44AC-B5FD-1747E332920A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAAB9D69-D899-44AC-B5FD-1747E332920A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {8DF4E0BC-9DA8-4EA7-8106-E1AD0569372B}
+		SolutionGuid = {B8A7F694-0F1F-407F-9AE8-7AE39ACFE17E}
 	EndGlobalSection
 EndGlobal
