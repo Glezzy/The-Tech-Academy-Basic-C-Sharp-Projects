@@ -1,0 +1,13 @@
+C:\Users\Greg\source\repos\Step265_Lambdas\Step265_Lambdas\bin\Debug\netcoreapp3.1\Step265_Lambdas.exe
+C:\Users\Greg\source\repos\Step265_Lambdas\Step265_Lambdas\bin\Debug\netcoreapp3.1\Step265_Lambdas.deps.json
+C:\Users\Greg\source\repos\Step265_Lambdas\Step265_Lambdas\bin\Debug\netcoreapp3.1\Step265_Lambdas.runtimeconfig.json
+C:\Users\Greg\source\repos\Step265_Lambdas\Step265_Lambdas\bin\Debug\netcoreapp3.1\Step265_Lambdas.runtimeconfig.dev.json
+C:\Users\Greg\source\repos\Step265_Lambdas\Step265_Lambdas\bin\Debug\netcoreapp3.1\Step265_Lambdas.dll
+C:\Users\Greg\source\repos\Step265_Lambdas\Step265_Lambdas\bin\Debug\netcoreapp3.1\Step265_Lambdas.pdb
+C:\Users\Greg\source\repos\Step265_Lambdas\Step265_Lambdas\obj\Debug\netcoreapp3.1\Step265_Lambdas.csprojAssemblyReference.cache
+C:\Users\Greg\source\repos\Step265_Lambdas\Step265_Lambdas\obj\Debug\netcoreapp3.1\Step265_Lambdas.AssemblyInfoInputs.cache
+C:\Users\Greg\source\repos\Step265_Lambdas\Step265_Lambdas\obj\Debug\netcoreapp3.1\Step265_Lambdas.AssemblyInfo.cs
+C:\Users\Greg\source\repos\Step265_Lambdas\Step265_Lambdas\obj\Debug\netcoreapp3.1\Step265_Lambdas.csproj.CoreCompileInputs.cache
+C:\Users\Greg\source\repos\Step265_Lambdas\Step265_Lambdas\obj\Debug\netcoreapp3.1\Step265_Lambdas.dll
+C:\Users\Greg\source\repos\Step265_Lambdas\Step265_Lambdas\obj\Debug\netcoreapp3.1\Step265_Lambdas.pdb
+C:\Users\Greg\source\repos\Step265_Lambdas\Step265_Lambdas\obj\Debug\netcoreapp3.1\Step265_Lambdas.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Step265_Lambdas/1.0.0": {
+        "runtime": {
+          "Step265_Lambdas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Step265_Lambdas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
