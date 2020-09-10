@@ -34,13 +34,10 @@ namespace Step265_Lambdas
                 }
             }
 
-            List<Employee> thejoes2 = new List<Employee>();
+            employees.Where(x => x.FirstName == "Joe").ToList();
+            
+            employees.Where(x => x.Id > 5).ToList();
 
-            foreach (Employee employee in employees)
-            
-                employees.Where(x => x.FirstName == "Joe").ToList();
-            
-                employees.Where(x => x.Id > 5).ToList();   
         }
     }
 }
