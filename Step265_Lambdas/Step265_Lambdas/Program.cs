@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -34,10 +35,20 @@ namespace Step265_Lambdas
                 }
             }
 
-            employees.Where(x => x.FirstName == "Joe").ToList();
-            
-            employees.Where(x => x.Id > 5).ToList();
+            List<Employee> thejoes2 = new List<Employee>();
+            thejoes2 = employees.Where(x => x.FirstName == "Joe").ToList();
+            foreach (Employee person in thejoes2)
+            {
+                Console.WriteLine("Name " + person.FirstName + " Added to the thejoes2 using Lambda.");
+            }
 
+            List<Employee> idlist = new List<Employee>();
+            idlist = employees.Where(x => x.Id > 5).ToList();
+            foreach (Employee personid in idlist)
+            {
+                Console.WriteLine("Name: " + personid.FirstName + " ID: " + personid.Id);
+            }
+            Console.ReadLine();
         }
     }
 }
