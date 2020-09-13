@@ -1,0 +1,13 @@
+C:\Users\Greg\source\repos\step293_DateTime\step293_DateTime\bin\Debug\netcoreapp3.1\step293_DateTime.exe
+C:\Users\Greg\source\repos\step293_DateTime\step293_DateTime\bin\Debug\netcoreapp3.1\step293_DateTime.deps.json
+C:\Users\Greg\source\repos\step293_DateTime\step293_DateTime\bin\Debug\netcoreapp3.1\step293_DateTime.runtimeconfig.json
+C:\Users\Greg\source\repos\step293_DateTime\step293_DateTime\bin\Debug\netcoreapp3.1\step293_DateTime.runtimeconfig.dev.json
+C:\Users\Greg\source\repos\step293_DateTime\step293_DateTime\bin\Debug\netcoreapp3.1\step293_DateTime.dll
+C:\Users\Greg\source\repos\step293_DateTime\step293_DateTime\bin\Debug\netcoreapp3.1\step293_DateTime.pdb
+C:\Users\Greg\source\repos\step293_DateTime\step293_DateTime\obj\Debug\netcoreapp3.1\step293_DateTime.csprojAssemblyReference.cache
+C:\Users\Greg\source\repos\step293_DateTime\step293_DateTime\obj\Debug\netcoreapp3.1\step293_DateTime.AssemblyInfoInputs.cache
+C:\Users\Greg\source\repos\step293_DateTime\step293_DateTime\obj\Debug\netcoreapp3.1\step293_DateTime.AssemblyInfo.cs
+C:\Users\Greg\source\repos\step293_DateTime\step293_DateTime\obj\Debug\netcoreapp3.1\step293_DateTime.csproj.CoreCompileInputs.cache
+C:\Users\Greg\source\repos\step293_DateTime\step293_DateTime\obj\Debug\netcoreapp3.1\step293_DateTime.dll
+C:\Users\Greg\source\repos\step293_DateTime\step293_DateTime\obj\Debug\netcoreapp3.1\step293_DateTime.pdb
+C:\Users\Greg\source\repos\step293_DateTime\step293_DateTime\obj\Debug\netcoreapp3.1\step293_DateTime.genruntimeconfig.cache
