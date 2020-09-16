@@ -11,7 +11,7 @@ namespace step293_DateTime
             Console.ReadLine();
             Console.WriteLine("Please enter a number: ");
             double userNumber = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("This will add 7 hours to the time you entered. : " + currentTime.AddHours(userNumber));
+            Console.WriteLine("This will add x amount of hours to the time you entered. : " + currentTime.AddHours(userNumber));
         }
     }
 }

@@ -28,10 +28,12 @@ namespace step307_exceptions2
                 }
                 var today = DateTime.Now;
 
-                var year1 = today.Year - 1 - age;   // Calculating year of birth
+                string Date = DateTime.Now.ToShortDateString();
 
-                var year2 = today.Year - age;       // Calculating year of birth
-                Console.WriteLine("You were born in " + year1 + " unless your birthdate is past " + today + " then it would be in " + year2);
+                var age2 = age - 1;   // Calculating year of birth
+
+                var year1 = today.Year - age;      // Calculating year of birth
+                Console.WriteLine("You were born in " + year1 + " unless your birthdate is after " + Date + " then you would still be " + age2 + " years old ");
             }
             catch (FormatException)         // input error that was not a number. 
             {

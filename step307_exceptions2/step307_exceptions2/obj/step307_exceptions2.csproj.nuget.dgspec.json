@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Greg\\source\\repos\\step307_exceptions2\\step307_exceptions2\\step307_exceptions2.csproj": {}
+    "C:\\Users\\Greg\\The-Tech-Academy-Basic-C-Sharp-Projects\\step307_exceptions2\\step307_exceptions2\\step307_exceptions2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Greg\\source\\repos\\step307_exceptions2\\step307_exceptions2\\step307_exceptions2.csproj": {
+    "C:\\Users\\Greg\\The-Tech-Academy-Basic-C-Sharp-Projects\\step307_exceptions2\\step307_exceptions2\\step307_exceptions2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Greg\\source\\repos\\step307_exceptions2\\step307_exceptions2\\step307_exceptions2.csproj",
+        "projectUniqueName": "C:\\Users\\Greg\\The-Tech-Academy-Basic-C-Sharp-Projects\\step307_exceptions2\\step307_exceptions2\\step307_exceptions2.csproj",
         "projectName": "step307_exceptions2",
-        "projectPath": "C:\\Users\\Greg\\source\\repos\\step307_exceptions2\\step307_exceptions2\\step307_exceptions2.csproj",
+        "projectPath": "C:\\Users\\Greg\\The-Tech-Academy-Basic-C-Sharp-Projects\\step307_exceptions2\\step307_exceptions2\\step307_exceptions2.csproj",
         "packagesPath": "C:\\Users\\Greg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Greg\\source\\repos\\step307_exceptions2\\step307_exceptions2\\obj\\",
+        "outputPath": "C:\\Users\\Greg\\The-Tech-Academy-Basic-C-Sharp-Projects\\step307_exceptions2\\step307_exceptions2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Greg\\AppData\\Roaming\\NuGet\\NuGet.Config",
