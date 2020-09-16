@@ -30,11 +30,13 @@ namespace step307_exceptions2
 
                 string Date = DateTime.Now.ToShortDateString();
 
-                var age2 = age - 1;   // Calculating year of birth
-
                 var year1 = today.Year - age;      // Calculating year of birth
-                Console.WriteLine("You were born in " + year1 + " unless your birthdate is after " + Date + " then you would still be " + age2 + " years old ");
+
+                // var year2 = today.Year - age - 1;    // Calculating year of birth
+
+            Console.WriteLine("You were born in " + year1);
             }
+
             catch (FormatException)         // input error that was not a number. 
             {
                 Console.WriteLine("Please enter only an integer");
