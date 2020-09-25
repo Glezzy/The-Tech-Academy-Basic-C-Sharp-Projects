@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <sitemanifest>
-  <IisApp path="E:\C#_Projects\MyFirstAzureWebApp\obj\Release\netcoreapp3.1\PubTmp\Out\" />
+  <IisApp path="C:\Users\Greg\The-Tech-Academy-Basic-C-Sharp-Projects\MyFirstAzureWebApp\obj\Release\netcoreapp3.1\PubTmp\Out\" />
 </sitemanifest>
